@@ -1,4 +1,4 @@
-# Medication Reminder System
+# Medication Reminder System - MEDISYNC
 
 ## Description
 A web application designed to help users manage their medication schedules efficiently. It features a clean UI with multiple tabs, medication tracking, and SMS notifications for reminders.
