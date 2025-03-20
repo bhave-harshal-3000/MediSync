@@ -2,13 +2,13 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/11.3.0/firebas
 import { getAuth, signInWithEmailAndPassword, updateProfile ,GoogleAuthProvider,signInWithPopup} from "https://www.gstatic.com/firebasejs/11.3.0/firebase-auth.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBSRtgbZ4_j-c339ecVhSYELH-9EuPSVfs",
-  authDomain: "mindplay2005.firebaseapp.com",
-  projectId: "mindplay2005",
-  storageBucket: "mindplay2005.firebasestorage.app",
-  messagingSenderId: "961633648306",
-  appId: "1:961633648306:web:4c930b45a396ada0b853ab",
-  measurementId: "G-3YK6DHL8K2"
+  apiKey: "API KEY",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 
