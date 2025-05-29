@@ -13,7 +13,7 @@ const firebaseConfig = {
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
-
+const provider = new GoogleAuthProvider();
 // Wait for DOM to load before accessing elements
 document.addEventListener("DOMContentLoaded", () => {
   const submit = document.getElementById("submit");
